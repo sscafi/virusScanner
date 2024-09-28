@@ -1,6 +1,6 @@
 # VirusTotal Scanner
 
-This script allows you to scan files and URLs for malicious content using the [VirusTotal API](https://www.virustotal.com/).
+This script allows you to scan files and URLs for malicious content using the [VirusTotal API](https://www.virustotal.com/)
 
 ## Requirements
 
